@@ -10,6 +10,9 @@
       "default_title": "Enter a search term",
       "default_popup": "popup.html"
     },
+     "web_accessible_resources": [
+      "styling.css"
+  ],
 
      "manifest_version": 2
 }
